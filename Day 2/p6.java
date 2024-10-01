@@ -7,3 +7,6 @@ class Demo{
 		}
 	}
 }
+
+
+OUTPUT:-
