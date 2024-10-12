@@ -9,6 +9,5 @@ class Demo{
 
 
 
-OUTPUT:-
+//OUTPUT:-  3 6 9 12 15
 
-3 6 9 12 15

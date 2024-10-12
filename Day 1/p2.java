@@ -12,6 +12,6 @@ class Demo{
 }
 
 
-OUTPUT:-
+/*OUTPUT:-
 
-Number is Positive
+Number is Positive  */

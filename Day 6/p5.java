@@ -12,9 +12,9 @@ class Demo {
 
 
 
-OUTPUT:-
+/*OUTPUT:-
 
 *
 * *
 * * *
-* * * *
+* * * *      */

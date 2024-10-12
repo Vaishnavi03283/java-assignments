@@ -13,6 +13,6 @@ class Demo {
 
 
 
-OUTPUT:-
+/*OUTPUT:-
 
-a is a vowel
+a is a vowel   */

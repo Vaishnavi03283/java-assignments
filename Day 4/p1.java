@@ -11,6 +11,5 @@ class Demo{
 
 
 
-OUTPUT:-
+//OUTPUT:-   A C E G I
 
-A C E G I

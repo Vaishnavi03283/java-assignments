@@ -34,6 +34,6 @@ class Demo {
 
 
 
-OUTPUT:-
+/*OUTPUT:-
 
-20 is the second largest
+20 is the second largest    */

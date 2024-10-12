@@ -13,6 +13,6 @@ class LargestNumber {
 
 
 
-OUTPUT:-
+/*OUTPUT:-
 
-50 is the largest among all numbers
+50 is the largest among all numbers    */

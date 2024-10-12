@@ -12,6 +12,6 @@ class Demo{
 
 
 
-OUTPUT:-
+/*OUTPUT:-
 
-Odd Number
+Odd Number  */

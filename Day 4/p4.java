@@ -12,8 +12,8 @@ class Demo{
 
 
 
-OUTPUT:-
+/*OUTPUT:-
 
 1 1 1 1
 1 1 1 1
-1 1 1 1
+1 1 1 1       */

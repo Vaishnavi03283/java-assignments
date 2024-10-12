@@ -19,8 +19,8 @@ class Demo {
 
 
 
-OUTPUT:-
+/*OUTPUT:-
 
 1 3 5 7
 3 5 7 9
-5 7 9 11
+5 7 9 11      */

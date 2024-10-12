@@ -12,6 +12,6 @@ class Demo {
 }
 
 
-OUTPUT:-
+/*OUTPUT:-
 
-20 is the smallest among all numbers
+20 is the smallest among all numbers     */

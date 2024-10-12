@@ -14,9 +14,9 @@ class Demo {
 
 
 
-OUTPUT:-
+/*OUTPUT:-
 
 A
 B C
 D E F
-G H I J
+G H I J         */

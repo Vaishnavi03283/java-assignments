@@ -13,6 +13,6 @@ class Demo{
 
 
 
-OUTPUT:-
+/*OUTPUT:-
 
-Number is Negative
+Number is Negative    */

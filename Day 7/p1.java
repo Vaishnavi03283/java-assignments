@@ -16,9 +16,9 @@ class Demo{
 
 
 
-OUTPUT:-
+/*OUTPUT:-
 
       *
     * *
   * * *
-* * * *
+* * * *         */

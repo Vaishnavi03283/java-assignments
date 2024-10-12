@@ -29,6 +29,6 @@ class Demo{
 
 
 
-OUTPUT:-
+/*OUTPUT:-
 
-The grade is: B
+The grade is: B     */

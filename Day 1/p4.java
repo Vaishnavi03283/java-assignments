@@ -11,6 +11,6 @@ class Demo{
 
 
 
-OUTPUT:-
+/*OUTPUT:-
 
-Even Number
+Even Number     */

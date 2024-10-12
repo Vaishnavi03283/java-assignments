@@ -12,7 +12,5 @@ class Demo{
 }
 
 
-OUTPUT:-
-
-Number is zero
+//OUTPUT:- Number is zero
 

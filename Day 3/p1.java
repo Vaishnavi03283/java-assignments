@@ -10,6 +10,5 @@ class Demo{
 
 
 
-OUTPUT:-
+//OUTPUT:-   * * * *
 
-* * * *
